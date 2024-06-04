@@ -5,3 +5,6 @@ people = int(input("How many people to split the bill? "))
 bill_with_tip = tip / 100 * bill + bill
 total = bill_with_tip / people
 print(total)
+
+#Checkout the link below to use The Tip Calculator👇
+https://replit.com/@VandanaGattupel/Tip-Calculator?v=1#main.py
